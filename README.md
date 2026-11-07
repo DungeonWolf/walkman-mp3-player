@@ -4,22 +4,22 @@ I am working on a project with Hack Club Twisted to make an mp3 player for mysel
 
 The mp3 player will have a similar look to a walkman ~~and I hope to give it a way to play cassette tapes too~~.
 
-Update: I probably should've researched how cassette tapes work and the rest of that field, because if I wanted to truly make it from scratch ( my plan from before ), I would have had to hire a witch or something to make it work according to a forum I found about it. So no more cassette tape.
+Update: I probably should've researched how cassette tapes work and the rest of that field, because if I wanted to truly make it from scratch ( my plan from before ), I would have had to hire a witch doctor on a blue moon or something to make it work, according to a forum I found about it. So no more cassette tape.
 <br><br>
 ![Render of Walkman Concept from Blender](Image%20Assets/Walkman%203d%20Model%20Rendering.png)
 - This is just a concept of the walkman above. Not final and probably not accurate, but here to give a sense of what it could or will be.
 # Features I'd like to have
 - Headphone Jack
-- ~~Cassette Player~~
 - Music Selector Screen and Dial Selector
 - Volume Dial
 - 3d Printable Case
+- ~~Cassette Player~~
 
 # Roadmap
 ## Week 1 ( Before Nov 9 )
 
 - [X] Get a good concept done <br>
-- [X] Make a good render or visual concept <br>
+- [ ] Make a good render or visual concept ( Remaking it right now ) <br>
 - [ ] Figure out technical design measurements and finalize design <br>
 - [ ] Work on design in fusion 360 <br>
 
